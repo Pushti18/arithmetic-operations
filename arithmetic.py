@@ -1,0 +1,7 @@
+print(10+12)
+print(10 - 12)
+print(10* 12)
+print(10 / 12)
+print(10 % 12)
+print(10 ** 12)
+print(10 // 12)
